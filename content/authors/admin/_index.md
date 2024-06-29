@@ -25,7 +25,7 @@ role: Mechanical Engineering Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Department of Mechanical Engineering, University of Aveiro
-    url: https://www.ua.pt/pt/dem/departamento
+    url: https://www.ua.pt/pt/dem/departamento 
 
 # Social network links
 # Need to use another icon? Sismply download the SVG icon to your `assets/media/icons/` folder.

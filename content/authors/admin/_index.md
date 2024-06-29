@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Tiago da Gama Gonçalves
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tiago
+last_name: Gonçalves
 
 # Status emoji
 status:
@@ -20,15 +20,15 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Mechanical Engineering Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Department of Mechanical Engineering, University of Aveiro
+    url: https://www.ua.pt/pt/dem/departamento
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Need to use another icon? Sismply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
